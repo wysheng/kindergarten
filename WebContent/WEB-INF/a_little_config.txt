@@ -1,0 +1,3 @@
+jdbcUrl = jdbc:mysql://localhost:3306/kindergarten?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull
+user = root
+password =123456
